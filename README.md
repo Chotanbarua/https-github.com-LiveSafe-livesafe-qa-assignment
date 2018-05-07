@@ -1,7 +1,7 @@
 # LiveSafe QA Assignment
 
 This is a quick assignment for Test Engineering candidates to submit to LiveSafe. See the
-[ASSIGNMENT.md](ASSIGNMENT.md) for details specific to the assignment.
+[Assignment.md](Assignment.md) for details specific to the assignment.
 
 To get started and submit your work.
 
